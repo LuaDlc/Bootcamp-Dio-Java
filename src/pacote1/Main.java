@@ -1,8 +1,5 @@
-import pacote1.Calculadora;
-import pacote1.Emprestimo;
-import pacote1.Mensagem;
-
-public class App {
+package pacote1;
+public class Main {
     public static void main(String[] args) {
         //calculadora
 
